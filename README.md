@@ -67,6 +67,7 @@ En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatiz
 [blog]: http://limni.net/blog/
 
 <https://guebs.com>
+![mi_imagen - copia (2)](https://github.com/aiza-fp/froga/assets/94653085/4abfdf20-7954-4fed-bf64-2ca60bc6c9dd)
 
 *cursiva*
 \*cursiva\*
